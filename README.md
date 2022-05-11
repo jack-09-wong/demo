@@ -1,13 +1,12 @@
 # demo 
- this html is calendar  show 
+ calendar： html5 with calendar show 
  
 # descript 
-page style,
+ calendar： html5 calendar style
 
 # how use
-copy html and js file to webserver path or dev path ,update the config file and resouce path
-
-notice: must check resource file path,make sure the JS lib is found
-
-
-
+ calendar： 
+    1 copy calendar files to targent path 
+	2 update the config file and resouce path
+	3 check  the JS lib 
+# ver:alpha	
